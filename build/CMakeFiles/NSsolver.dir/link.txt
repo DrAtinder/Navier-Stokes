@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/NSsolver.dir/main.cpp.o -o NSsolver  -Wl,-rpath,/home/atinder/Documents/NS/Navier-Stokes/build/lib lib/libMesh.so 

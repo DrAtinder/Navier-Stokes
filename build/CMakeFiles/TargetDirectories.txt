@@ -1,0 +1,8 @@
+/home/atinder/Documents/NS/Navier-Stokes/build/CMakeFiles/NSsolver.dir
+/home/atinder/Documents/NS/Navier-Stokes/build/CMakeFiles/test.dir
+/home/atinder/Documents/NS/Navier-Stokes/build/CMakeFiles/edit_cache.dir
+/home/atinder/Documents/NS/Navier-Stokes/build/CMakeFiles/rebuild_cache.dir
+/home/atinder/Documents/NS/Navier-Stokes/build/Mesh/CMakeFiles/Mesh.dir
+/home/atinder/Documents/NS/Navier-Stokes/build/Mesh/CMakeFiles/test.dir
+/home/atinder/Documents/NS/Navier-Stokes/build/Mesh/CMakeFiles/edit_cache.dir
+/home/atinder/Documents/NS/Navier-Stokes/build/Mesh/CMakeFiles/rebuild_cache.dir
